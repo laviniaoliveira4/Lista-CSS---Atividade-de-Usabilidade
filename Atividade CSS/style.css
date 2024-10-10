@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(164, 171, 187);
+    color: rgb(213, 233, 231);
+    font-family: arial;
+}
+
+h1 {
+    color: rgb(141, 1, 1);
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+form {
+    background-color: #994f4f;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    margin: 20px;
+}
+
+label {
+    color: white;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 2px;
+    margin: 8px;
+}
+
+button {
+    background-color: #55555581;
+    color: white;
+    border: none;
+}
+
+table {
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.226);
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
